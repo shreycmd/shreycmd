@@ -50,14 +50,14 @@ I enjoy working across the stack, from building modern web applications to desig
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-`Transformers` • `LLMs` • `Embeddings` • `RAG` • `Computer Vision`
+`Transformers` • `LLMs` • `Embeddings` • `RAG`
 
 ---
 
 ## 🔭 Currently Exploring
 
 - 🤖 AI Agents and Tool-Calling Architectures
-- 👁️ Multimodal AI and Computer Vision
+- 👁️ Multimodal AI
 - 🖥️ Local LLM/VLM Inference and Optimization
 - 🔍 Embedding Models and Similarity Search
 - ⚡ Background Workers and Message Queues
@@ -98,16 +98,12 @@ Here are some of the projects I'm working on and experimenting with:
   <img src="https://github-readme-stats.vercel.app/api?username=shreycmd&show_icons=true&hide_border=true" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreycmd&hide_border=true" />
-</p>
-
 ---
 
 ## 📫 Connect With Me
 
 - 💼 GitHub: [@shreycmd](https://github.com/shreycmd)
-- 📧 Email: your-email@example.com
+- 📧 Email: [shrey03505@gmail.com](mailto:shrey03505@gmail.com)
 
 ---
 
