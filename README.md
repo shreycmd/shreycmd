@@ -83,11 +83,15 @@ Here are some of the projects I'm working on and experimenting with:
 - **Background Processing Systems**  
   Exploring asynchronous processing using queues, workers, caching, and databases.
 
-- **Concurrent File Processing**  
-  Benchmarking and comparing multithreading, multiprocessing, memory mapping, and different file processing strategies.
+- **GigaSeek: High-Performance Multi-GB File Searcher**  
+  Analyzed and benchmarked various concurrency paradigms (multiprocessing, multithreading, and an asynchronous hybrid approach) to search for target words across four 1GB files.
 
 ### 🌐 Full-Stack Applications
 
+- **Repopedia**
+- **ShoeStore**
+- **Bidding Platform**
+- **Collaborative Whiteboard**
 - Building web applications using **Next.js, TypeScript, Node.js, PostgreSQL, MongoDB, and Redis**.
 
 ---
