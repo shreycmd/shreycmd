@@ -83,7 +83,7 @@ Here are some of the projects I'm working on and experimenting with:
 - **Background Processing Systems**  
   Exploring asynchronous processing using queues, workers, caching, and databases.
 
-- **GigaSeek: High-Performance Multi-GB File Searcher**  
+- **FastFinder: Parallel Log & File Parser**  
   Analyzed and benchmarked various concurrency paradigms (multiprocessing, multithreading, and an asynchronous hybrid approach) to search for target words across four 1GB files.
 
 ### 🌐 Full-Stack Applications
