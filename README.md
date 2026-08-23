@@ -103,6 +103,7 @@ Here are some of the projects I'm working on and experimenting with:
 ## 📫 Connect With Me
 
 - 💼 GitHub: [@shreycmd](https://github.com/shreycmd)
+- 🔗 LinkedIn: [Shreyansh Pandey](https://www.linkedin.com/in/shreyansh-pandey-995805249)
 - 📧 Email: [shrey03505@gmail.com](mailto:shrey03505@gmail.com)
 
 ---
